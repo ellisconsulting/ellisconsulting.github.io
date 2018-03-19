@@ -2,6 +2,6 @@
 
 This page is under construction.  In the meantime, you can read my:
 
-- [LinkedIn](https://www.linkedin.com/in/peter-ellis-27929737/)
+- [LinkedIn profile](https://www.linkedin.com/in/peter-ellis-27929737/)
 - [personal blog](https://ellisp.github.io) about statistics and data stuff
-- [Twitter](https://twitter.com/ellis2013nz)
+- [Tweets on Twitter](https://twitter.com/ellis2013nz)
